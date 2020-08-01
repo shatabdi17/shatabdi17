@@ -1,12 +1,12 @@
-  ### Hi, I'm Shatabdi  👋🏼 👩🏻‍💻
+  ### Hi, I'm Shatabdi 👋🏼  👩🏻‍💻 
 
 <img src="https://github.com/shatabdi17/shatabdi17/blob/master/cover.gif" alt="banner that says shatabdi bhattacharjee - software developer">
     
-  🔗  You can find me on [LinkedIn](https://www.linkedin.com/in/shatabdibhattacharjee-17/) & [Twitter](https://twitter.com/shatabdi_nb).
+ - 🔗  You can find me on [LinkedIn](https://www.linkedin.com/in/shatabdibhattacharjee-17/) & [Twitter](https://twitter.com/shatabdi_nb)
 
-  ✨  Passionate about UX, Accessibility & D&I.
+ - ✨  Passionate about UX, Accessibility & D&I
  
-  😄  Pronouns: she / her
+ - 😄  Pronouns: she / her
 
 
 <!--
@@ -15,14 +15,11 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 Currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<img src="https://github.com/shatabdi17/shatabdi17/blob/master/cover.png" alt="banner that says shatabdi bhattacharjee - software developer">
-<img src="https://github.com/shatabdi17/shatabdi17/blob/master/cover.gif" alt="banner that says shatabdi bhattacharjee - software developer">
-  
 -->
