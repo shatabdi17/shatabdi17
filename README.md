@@ -1,4 +1,6 @@
-  ### Hi, I'm Shatabdi 👋🏼  👩🏻‍💻 
+  ### Hi, I'm Shatabdi 👋🏼  👩🏻‍💻   
+  
+  ![Looking for my next role!](https://img.shields.io/badge/-Looking%20for%20my%20next%20role!%20%20%F0%9F%91%80-brightgreen)
 
 <img src="https://github.com/shatabdi17/shatabdi17/blob/master/cover.gif" alt="banner that says shatabdi bhattacharjee - software developer">
     
