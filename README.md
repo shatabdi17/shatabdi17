@@ -1,11 +1,12 @@
-### Hi, I'm Shatabdi  👋🏼 👩🏻‍💻
+  ### Hi, I'm Shatabdi  👋🏼 👩🏻‍💻
 
+<img src="https://github.com/shatabdi17/shatabdi17/blob/master/cover.png" alt="banner that says shatabdi bhattacharjee - software developer">
 
- 🔗  You can find me on [LinkedIn](https://www.linkedin.com/in/shatabdibhattacharjee-17/) & [Twitter](https://twitter.com/shatabdi_nb).
+  🔗  You can find me on [LinkedIn](https://www.linkedin.com/in/shatabdibhattacharjee-17/) & [Twitter](https://twitter.com/shatabdi_nb).
 
- ✨  Passionate about UX, Accessibility & D&I.
+  ✨  Passionate about UX, Accessibility & D&I.
  
- 😄  Pronouns: she / her
+  😄  Pronouns: she / her
 
 
 <!--
