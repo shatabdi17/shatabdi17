@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm Shatabdi  👋🏼 👩🏻‍💻
+
+
+ ✨  Passionate about UX, Accessibility & D&I.
+ 
+ 🔗  You can find me on [LinkedIn](https://www.linkedin.com/in/shatabdibhattacharjee-17/) & [Twitter](https://twitter.com/shatabdi_nb).
+
+ 😄  Pronouns: she / her
+
 
 <!--
 **shatabdi17/shatabdi17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
