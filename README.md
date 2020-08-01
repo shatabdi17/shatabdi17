@@ -1,7 +1,7 @@
   ### Hi, I'm Shatabdi  👋🏼 👩🏻‍💻
 
-<img src="https://github.com/shatabdi17/shatabdi17/blob/master/cover.png" alt="banner that says shatabdi bhattacharjee - software developer">
-
+<img src="https://github.com/shatabdi17/shatabdi17/blob/master/cover.gif" alt="banner that says shatabdi bhattacharjee - software developer">
+    
   🔗  You can find me on [LinkedIn](https://www.linkedin.com/in/shatabdibhattacharjee-17/) & [Twitter](https://twitter.com/shatabdi_nb).
 
   ✨  Passionate about UX, Accessibility & D&I.
@@ -22,4 +22,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img src="https://github.com/shatabdi17/shatabdi17/blob/master/cover.png" alt="banner that says shatabdi bhattacharjee - software developer">
+<img src="https://github.com/shatabdi17/shatabdi17/blob/master/cover.gif" alt="banner that says shatabdi bhattacharjee - software developer">
+  
 -->
