@@ -1,10 +1,10 @@
 ### Hi, I'm Shatabdi  👋🏼 👩🏻‍💻
 
 
- ✨  Passionate about UX, Accessibility & D&I.
- 
  🔗  You can find me on [LinkedIn](https://www.linkedin.com/in/shatabdibhattacharjee-17/) & [Twitter](https://twitter.com/shatabdi_nb).
 
+ ✨  Passionate about UX, Accessibility & D&I.
+ 
  😄  Pronouns: she / her
 
 
